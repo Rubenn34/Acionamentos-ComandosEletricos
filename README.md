@@ -8,6 +8,10 @@ O site foi criado para facilitar o acesso ao material didático produzido pela e
 
 ![preview](imagem.png)
 
+## 🖥️ Preview do Site Mobile
+
+![preview](imagemMobile.png)
+
 ---
 
 ## 📚 Sobre o Projeto
