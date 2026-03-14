@@ -6,12 +6,12 @@ O site foi criado para facilitar o acesso ao material didático produzido pela e
 
 ## 🖥️ Preview do Site
 
-![preview](imagem.png)
+![preview](imagens/imagem.png)
 
 ## 🖥️ Preview do Site Mobile
 
 <p align="center">
-  <img src="imagemMobile.png" width="250">
+  <img src="imagens/imagemMobile.png" width="250">
 </p>
 
 ---
