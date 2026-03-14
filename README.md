@@ -10,7 +10,9 @@ O site foi criado para facilitar o acesso ao material didático produzido pela e
 
 ## 🖥️ Preview do Site Mobile
 
-![preview](imagemMobile.png)
+<p align="center">
+  <img src="imagemMobile.png" width="250">
+</p>
 
 ---
 
